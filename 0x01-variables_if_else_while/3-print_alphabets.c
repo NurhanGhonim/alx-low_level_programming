@@ -6,7 +6,7 @@
  * Description: print alphapet in lowercase then in uppercase
  *
  * Return: Always 0 (success)
-*i/
+*/
 
 int main(void)
 {
